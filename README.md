@@ -1,3 +1,3 @@
-# SentimentAnalysis_NaiveBayes
+# SentimentAnalysis NaiveBayes
 
-Dins de data cal afegir els csv de la pràctica, que no em deixa penjar-los
+Full report in catalan inside the report folder.
